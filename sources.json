@@ -16,7 +16,7 @@
         }
     },
     {
-        "source": "Anddea",
+        "source": "Anddea - WADBB",
         "repository": "anddea/revanced-patches",
         "api": {
             "json": "https://raw.githubusercontent.com/anddea/revanced-patches/refs/heads/main/patches.json",
