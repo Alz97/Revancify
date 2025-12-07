@@ -35,7 +35,7 @@
 2. Open Termux.
 3. Copy and paste this command.
 ```
-curl -sL https://github.com/decipher3114/Revancify/raw/refs/heads/main/install.sh | bash
+curl -sL https://github.com/Alz97/Revancify/raw/refs/heads/main/install.sh | bash
 ```
 
 ## Usage
@@ -46,4 +46,5 @@ Or use with arguments. Check them with `revancify -h`
 # Thanks & Credits
 [Revanced](https://github.com/revanced)  
 [Revanced Extended](https://github.com/inotia00)  
+
 
