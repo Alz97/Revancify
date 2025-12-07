@@ -19,7 +19,7 @@
         "source": "Anddea-WADBB",
         "repository": "AMStore-na/revanced-patches",
         "api": {
-            "json": "https://raw.githubusercontent.com/AMStore-na/revanced-patches/refs/heads/main/patches.json",
+            "json": "https://raw.githubusercontent.com/Alz97/revanced-patches/refs/heads/main/patches.json",
             "version": null
         }
     },
