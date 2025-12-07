@@ -16,7 +16,7 @@
         }
     },
     {
-        "source": "Anddea-WADBB",
+        "source": "Alz97",
         "repository": "Alz97/revanced-patches",
         "api": {
             "json": "https://raw.githubusercontent.com/Alz97/revanced-patches/refs/heads/dev/patches.json",
